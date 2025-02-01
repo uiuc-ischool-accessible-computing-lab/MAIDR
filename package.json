@@ -53,6 +53,7 @@
   "dependencies": {
     "mi": "^1.0.0",
     "minami": "^1.2.3",
+    "react": "^18.2.0",
     "taffydb": "^2.7.3"
   },
   "jest": {
